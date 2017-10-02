@@ -10,7 +10,7 @@ def second_challenge
     #code your solution here!
    groceries.each do |type,food|
      food.each do |x|
-       arr << x 
+       arr << x
      end
    end
   arr
